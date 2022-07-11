@@ -1,0 +1,16 @@
+ul {
+  width: 50%;
+}
+
+li {
+  text-align: center;
+  list-style-type: none;
+  font-size: 48px;
+  font-family: "Orbitron", sans-serif;
+  font-weight: 900;
+  margin: 2rem 0.5rem;
+  padding: 2rem 0.5rem;
+  overflow: hidden;
+  background-color: #c3c2c1;
+  color: magenta;
+}
